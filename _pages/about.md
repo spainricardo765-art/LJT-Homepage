@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), which is led by Prof. Junxian He, my PhD supervisor. Prof. Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU), from which I graduated in June 2024.
+I am a first-year PhD candidate at the HKUST NLP Group, led by Prof. Junxian He, my PhD supervisor. Prof. Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU), from which I graduated in June 2024.
 
 My research focuses on natural language processing and machine learning.
 
@@ -29,8 +29,6 @@ My research focuses on natural language processing and machine learning.
 - **Research Intern**, Shanghai AI Lab (June 2023 - December 2023), advised by Prof. Yu Cheng
 
 ## Publications
-
-\* denotes equal contribution.
 
 ### Preprints
 
